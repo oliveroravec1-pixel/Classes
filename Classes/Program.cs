@@ -1,5 +1,5 @@
 ﻿class Program
-{
+{ 
     static void Main(string[] args)
     {
         Console.WriteLine("Morituri te salutant.");
