@@ -1,0 +1,14 @@
+/Users/oliveroravec/RiderProjects/Classes/Classes/bin/Debug/net10.0/Classes
+/Users/oliveroravec/RiderProjects/Classes/Classes/bin/Debug/net10.0/Classes.deps.json
+/Users/oliveroravec/RiderProjects/Classes/Classes/bin/Debug/net10.0/Classes.runtimeconfig.json
+/Users/oliveroravec/RiderProjects/Classes/Classes/bin/Debug/net10.0/Classes.dll
+/Users/oliveroravec/RiderProjects/Classes/Classes/bin/Debug/net10.0/Classes.pdb
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.AssemblyInfoInputs.cache
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.AssemblyInfo.cs
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.csproj.CoreCompileInputs.cache
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.dll
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/refint/Classes.dll
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.pdb
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/Classes.genruntimeconfig.cache
+/Users/oliveroravec/RiderProjects/Classes/Classes/obj/Debug/net10.0/ref/Classes.dll
